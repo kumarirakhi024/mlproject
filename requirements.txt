@@ -6,4 +6,5 @@ nltk
 regex
 scikit-learn
 Jinja2==3.1.2
+datetime
 -e .
